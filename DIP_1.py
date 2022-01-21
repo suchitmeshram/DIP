@@ -1,3 +1,5 @@
+#TASK : To find matrix of image and convert color image to gray
+
 # Import the necessary libraries
 from PIL import Image
 import cv2
