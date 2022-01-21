@@ -7,5 +7,5 @@ Given Task are :
 #TASK-2 :convert pixel of grayscale image to either 1 or 0 (Binerization)
 #TASK-3 : ADD gray scale image and binay image
 
-I have completed these task individualy
+I have completed these task seperately
 
